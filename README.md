@@ -4,14 +4,10 @@ The main goal of the OnlyFEUP project is the development of a web-based social n
 
 ## Project Components
 
-* [ER: Requirements Specification](https://git.fe.up.pt/lbaw/lbaw2223/lbaw2255/-/wikis/er)
-* [EBD: Database Specification](https://git.fe.up.pt/lbaw/lbaw2223/lbaw2255/-/wikis/ebd)
-* [EAP: Architecture Specification and Prototypes](https://git.fe.up.pt/lbaw/lbaw2223/lbaw2255/-/wikis/eap)
-* [PA: Product and Presentation](https://git.fe.up.pt/lbaw/lbaw2223/lbaw2255/-/wikis/pa)
-
-## Artefacts Checklist
-
-* The artefacts checklist is available at: [Google spreadsheets](https://docs.google.com/spreadsheets/d/14yszoHqUxl4diFyuA2qboFUxkXF26WCMqOoagh-Nhik/edit#gid=537406521)
+* [ER: Requirements Specification](https://github.com/marcwferreira/OnlyFEUP/blob/master/wiki/er.md)
+* [EBD: Database Specification](https://github.com/marcwferreira/OnlyFEUP/blob/master/wiki/ebd.md)
+* [EAP: Architecture Specification and Prototypes](https://github.com/marcwferreira/OnlyFEUP/blob/master/wiki/eap.md)
+* [PA: Product and Presentation](https://github.com/marcwferreira/OnlyFEUP/blob/master/wiki/pa.md) **OBS:** Some images are not working, however the link to the video is working properly (![video](https://github.com/marcwferreira/OnlyFEUP/blob/master/docs/lbaw2255.mp4))
 
 ## Product
 
